@@ -10,7 +10,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/shine-jayakumar/insta-likecom-bot/issues)
 
 
-### Automates likes and comments on an instagram account or tag
+### Automates likes and comments on an instagram account or tag. This branch is for experiments in field of bot automation & hostong on server
 
 
 <p align="center">
