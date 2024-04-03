@@ -11,7 +11,7 @@
 
 
 ### Automates likes and comments on an instagram account or tag. This branch is for experiments in field of bot automation & hostong on server
-
+### DISCLAIMER: The application is developed for entertainment/educational purposes only, the author is not responsible for the consequences of using this software for bad purposes.
 
 <p align="center">
 <img src="https://github.com/shine-jayakumar/insta-likecom-bot/blob/master/instalikecombot.png"/>
