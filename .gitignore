@@ -7,3 +7,4 @@ venv
 .vscode
 stats/*.json
 .pytest_cache
+token.txt
